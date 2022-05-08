@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rky21&label=Profile%20views&color=0e75b6&style=flat" alt="rky21" /> </p>
 
+<img align="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on **Chat Application**
 
 - 🌱 I’m currently learning **React JS**
