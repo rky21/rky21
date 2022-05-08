@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/rky21/rky21/blob/main/IMG_20220508_220257.jpg)
+<!-- ![Design and Development](https://github.com/rky21/rky21/blob/main/IMG_20220508_220257.jpg) -->
 
 <h1 align="center">Hi 👋, I'm Rahul Kumar Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
